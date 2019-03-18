@@ -1,5 +1,5 @@
 # automl
-classifier built using open source packages tpot and auto-sklearn to predict survival using the titanic dataset
+Classifiers built using open source packages tpot and auto-sklearn to predict survival using the titanic dataset
 
 dataset : https://www.kaggle.com/c/titanic
 
